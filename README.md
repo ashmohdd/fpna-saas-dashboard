@@ -7,6 +7,13 @@ A portfolio-grade, end-to-end FP&A project designed for **Sr. Financial Analyst 
 - **Forecasting** (baseline) + **driver-based scenarios** (Bear/Base/Bull)
 - A polished **Streamlit dashboard** for non-technical stakeholders
 
+## Dashboard Preview (mock)
+Below is a simple *layout mock* (not a real screenshot) to help non-technical reviewers quickly understand what the dashboard looks like.
+
+![Dashboard preview mock](assets/dashboard_preview_mock.png)
+
+> Tip: After you run the dashboard locally (or deploy it), replace this mock with 2–3 real screenshots (KPI row, scenario table, and trend charts).
+
 ## Executive summary (for non-technical reviewers)
 This dashboard answers common FP&A questions:
 - *If churn increases by 0.5%*, how does ARR and cash runway change?
@@ -80,4 +87,3 @@ Then add them to the README under a **Dashboard Preview** section.
 ## Notes / assumptions
 - Data is **synthetic but realistic**, built from a SaaS driver model.
 - This is intentional: it avoids confidentiality issues while still demonstrating real FP&A skills.
-
