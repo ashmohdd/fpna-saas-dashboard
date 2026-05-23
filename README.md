@@ -10,7 +10,11 @@ A portfolio-grade, end-to-end FP&A project designed for **Sr. Financial Analyst 
 ## Dashboard Preview (mock)
 Below is a simple *layout mock* (not a real screenshot) to help non-technical reviewers quickly understand what the dashboard looks like.
 
-![Dashboard preview mock](assets/dashboard_preview_mock.png)
+![Dashboard preview mock (PNG)](assets/dashboard_preview_mock.png)
+
+If your viewer doesn't load PNGs for some reason, here's the SVG version:
+
+![Dashboard preview mock (SVG)](assets/dashboard_preview_mock.svg)
 
 > Tip: After you run the dashboard locally (or deploy it), replace this mock with 2–3 real screenshots (KPI row, scenario table, and trend charts).
 
